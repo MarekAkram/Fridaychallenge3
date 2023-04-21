@@ -1,0 +1,56 @@
+body {
+  position: absolute;
+  width: 1440px;
+  height: 586px;
+  left: 0px;
+  top: 0px;
+  background-color: #74c69d;
+}
+.container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  background-color: #74c69d;
+  gap: 180px;
+
+  position: absolute;
+  width: 1180.28px;
+  height: 378.13px;
+  left: 130px;
+  top: 125px;
+}
+.left {
+  width: ;
+  color: #fff;
+}
+.right {
+ 
+}
+.logo {
+    width: 644.28px;
+    height: 378.13px;
+    
+}
+
+.first {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 125%;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+}
+
+.second {
+    font-size: 40px;
+}
+
+.third {
+}
+.button {
+background: #FFFFFF;
+border-radius: 5px;
+width: 150px;
+height: 40px;
+border: none;
+}
