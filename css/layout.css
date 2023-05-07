@@ -78,6 +78,11 @@
   font-size: 0.7rem;
   color: #fff;
 }
+.text4 {
+  font-size: 1rem;
+  text-transform: uppercase;
+  color: #74c69d;
+}
 
 .btn {
   display: inline-block;
@@ -90,6 +95,10 @@
 .btn_wh {
   background-color: #fff;
   color: #000;
+}
+.btn_bl {
+  background-color: #000;
+  color: #fff;
 }
 
 .partners {
@@ -121,4 +130,32 @@
   display: flex;
   align-items: center;
   justify-content: space-between;
+}
+footer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.footer-row {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  height: 125px;
+  align-items: center;
+}
+.social {
+  height: 18px;
+  text-decoration: none;
+  color: #ffff;
+}
+.socials {
+  display: flex;
+  gap: 20px;
+  align-items: center;
+}
+.copyright-text {
+  font-size: 20px;
+  font-size: 20px;
+  line-height: 25px;
+  color: #fff;
 }
